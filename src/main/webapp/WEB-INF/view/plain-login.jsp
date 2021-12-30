@@ -3,11 +3,7 @@
 <html>
 <head>
 	<title>Custom Login Page</title>
-	<style type="text/css">
-		.failed {
-			color: red;
-		}
-	</style>
+	<link rel="stylesheet" type="text/css" href="css/demo.css">
 </head>
 <body>
 <h3>My Custom Login Page</h3>
